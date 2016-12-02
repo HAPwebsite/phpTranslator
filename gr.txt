@@ -1,0 +1,16 @@
+Home=Σπίτι
+How to?=Πως να?
+Open Source=Ανοιχτή πηγή
+Open Source, you will get everything. Modify and use it for you or for your clients.=Open Source, θα πάρετε τα πάντα. Τροποποίηση και να το χρησιμοποιήσετε για σας ή για τους πελάτες σας.
+Translate Easy=Μετάφραση Εύκολη
+Easy way to translate your website, read documentation for how to use it.=Εύκολος τρόπος για να μεταφράσει την ιστοσελίδα σας, διαβάστε την τεκμηρίωση για το πώς να το χρησιμοποιήσετε.
+Clean Code=Καθαρίστε Κωδικός
+I will try to provide clean code, even that I`m a mess.=Θα προσπαθήσω να παρέχει καθαρό κώδικα, ακόμη και αυτό I `m ένα χάος.
+It`s free!=It`s δωρεάν!
+Yes!=Ναί!
+Download Now=Κατέβασε τώρα
+Public Version=δημόσια Έκδοση
+Replace everything that you want to translate!=Αντικαταστήστε τα πάντα που θέλετε να μεταφράσετε!
+Check=Έλεγχος
+Documentations=τεκμηριώσεις
+for how-to use.=για το πώς-να χρησιμοποιήσετε.

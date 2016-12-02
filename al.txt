@@ -1,0 +1,16 @@
+Home=Ballina
+How to?=Qysh me?
+Open Source=Open Source
+Open Source, you will get everything. Modify and use it for you or for your clients.=Open Source, ju do të merrni çdo gjë. Modifikojë dhe e përdorin atë për ju ose për klientët tuaj.
+Translate Easy=Përkthe Lehtë
+Easy way to translate your website, read documentation for how to use it.=Mënyrë e lehtë për të përkthyer faqen tuaj, lexoni dokumentacionin për mënyrën se si të përdorin atë.
+Clean Code=Kodi i pastër
+I will try to provide clean code, even that I`m a mess.=Unë do të përpiqet për të siguruar kod të pastër, edhe pse vet jame një rrëmujë.
+It`s free!=Eshte falas!
+Yes!=Po!
+Download Now=Shkarko tani
+Public Version=Versioni Publik
+Replace everything that you want to translate!=Zëvendëso çdo gjë që ju doni të përktheni!
+Check=Shiko
+Documentations=Dokumentacionin
+for how-to use.=se si te perdorni.

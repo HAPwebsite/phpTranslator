@@ -1,0 +1,16 @@
+Home=Главная
+How to?=Как?
+Open Source=Открытый исходный код
+Open Source, you will get everything. Modify and use it for you or for your clients.=Open Source, вы получите все. Изменить и использовать его для вас или для ваших клиентов.
+Translate Easy=Перевести Легко
+Easy way to translate your website, read documentation for how to use it.=Легкий способ перевести ваш веб-сайт, прочитайте документацию для того, как использовать его.
+Clean Code=Чистый код
+I will try to provide clean code, even that I`m a mess.=Я буду стараться, чтобы обеспечить чистый код, даже что I`m беспорядок.
+It`s free!=It`s бесплатно!
+Yes!=Да!
+Download Now=Скачать сейчас
+Public Version=Публичная версия
+Replace everything that you want to translate!=Заменить все, что вы хотите перевести!
+Check=Проверьте
+Documentations=документация
+for how-to use.=для того, как в использовании.

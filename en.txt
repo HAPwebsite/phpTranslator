@@ -1,0 +1,16 @@
+Home=Home
+How to?=How to?
+Open Source=Open Source
+Open Source, you will get everything. Modify and use it for you or for your clients.=Open Source, you will get everything. Modify and use it for you or for your clients.
+Translate Easy=Translate Easy
+Easy way to translate your website, read documentation for how to use it.=Easy way to translate your website, read documentation for how to use it.
+Clean Code=Clean Code
+I will try to provide clean code, even that I`m a mess.=I will try to provide clean code, even that I`m a mess.
+It`s free!=It`s free!
+Yes!=Yes!
+Download Now=Download Now
+Public Version=Public Version
+Replace everything that you want to translate!=Replace everything that you want to translate!
+Check=Check
+Documentations=Documentations
+for how-to use.=for how-to use.

@@ -1,0 +1,16 @@
+Home=Accueil
+How to?=Comment?
+Open Source=Open Source
+Open Source, you will get everything. Modify and use it for you or for your clients.=Open Source, vous obtiendrez tout. Modifiez-le et utilisez-le pour vous ou vos clients.
+Translate Easy=Traduire Easy
+Easy way to translate your website, read documentation for how to use it.=Une manière simple de traduire votre site Web, lire la documentation pour savoir comment l'utiliser.
+Clean Code=Code propre
+I will try to provide clean code, even that I`m a mess.=Je vais essayer de fournir un code propre, même si je suis un gâchis.
+It`s free!=C'est gratuit!
+Yes!=Oui!
+Download Now=Télécharger Maintenant
+Public Version=Version Publique
+Replace everything that you want to translate!=Remplacez tout ce que vous voulez traduire!
+Check=Vérifier
+Documentations=Documentations
+for how-to use.=Pour savoir comment utiliser.
